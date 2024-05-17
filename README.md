@@ -1,3 +1,3 @@
 # Apex-Laptops
 
-Ecommerce Project
+Ecommerce Project for Web Development
